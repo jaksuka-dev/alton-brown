@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Restaurant Hugo</title>
+    <link>https://alton-brown.netlify.app/categories/</link>
+    <description>Recent content in Categories on Restaurant Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 14:22:21 +0000</lastBuildDate><atom:link href="https://alton-brown.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipes</title>
+      <link>https://alton-brown.netlify.app/categories/recipes/</link>
+      <pubDate>Wed, 30 Sep 2020 14:22:21 +0000</pubDate>
+      
+      <guid>https://alton-brown.netlify.app/categories/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delecius foods</title>
+      <link>https://alton-brown.netlify.app/categories/delecius-foods/</link>
+      <pubDate>Tue, 29 Sep 2020 18:16:50 +0000</pubDate>
+      
+      <guid>https://alton-brown.netlify.app/categories/delecius-foods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honey</title>
+      <link>https://alton-brown.netlify.app/categories/honey/</link>
+      <pubDate>Tue, 29 Sep 2020 14:18:24 +0000</pubDate>
+      
+      <guid>https://alton-brown.netlify.app/categories/honey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lemon</title>
+      <link>https://alton-brown.netlify.app/categories/lemon/</link>
+      <pubDate>Sun, 27 Sep 2020 12:44:12 +0000</pubDate>
+      
+      <guid>https://alton-brown.netlify.app/categories/lemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mayonnaise</title>
+      <link>https://alton-brown.netlify.app/categories/mayonnaise/</link>
+      <pubDate>Tue, 22 Sep 2020 10:54:46 +0000</pubDate>
+      
+      <guid>https://alton-brown.netlify.app/categories/mayonnaise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
